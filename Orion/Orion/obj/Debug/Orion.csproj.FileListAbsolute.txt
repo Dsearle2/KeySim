@@ -1,0 +1,12 @@
+c:\users\dsear_000\documents\visual studio 2013\Projects\Orion\Orion\bin\Debug\Orion.exe.config
+c:\users\dsear_000\documents\visual studio 2013\Projects\Orion\Orion\bin\Debug\Orion.exe
+c:\users\dsear_000\documents\visual studio 2013\Projects\Orion\Orion\bin\Debug\Orion.pdb
+c:\users\dsear_000\documents\visual studio 2013\Projects\Orion\Orion\obj\Debug\Orion.csprojResolveAssemblyReference.cache
+c:\users\dsear_000\documents\visual studio 2013\Projects\Orion\Orion\obj\Debug\Orion.exe
+c:\users\dsear_000\documents\visual studio 2013\Projects\Orion\Orion\obj\Debug\Orion.pdb
+C:\Users\Antlia\OneDrive\Documents\VSProjects\Orion\Orion\bin\Debug\Orion.exe.config
+C:\Users\Antlia\OneDrive\Documents\VSProjects\Orion\Orion\obj\Debug\Orion.exe
+C:\Users\Antlia\OneDrive\Documents\VSProjects\Orion\Orion\obj\Debug\Orion.pdb
+C:\Users\Antlia\OneDrive\Documents\VSProjects\Orion\Orion\bin\Debug\Orion.exe
+C:\Users\Antlia\OneDrive\Documents\VSProjects\Orion\Orion\bin\Debug\Orion.pdb
+C:\Users\Antlia\OneDrive\Documents\VSProjects\Orion\Orion\obj\Debug\Orion.csprojResolveAssemblyReference.cache

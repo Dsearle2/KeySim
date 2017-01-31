@@ -1,0 +1,31 @@
+<Settings>
+	<KeyConfig>
+		<SwitchWeapon>F1</SwitchWeapon>
+		<SwitchSweat>F2</SwitchSweat>
+		<NextTarget>F3</NextTarget>
+		<AutoUse>F4</AutoUse>
+		<Loot>F5</Loot>
+	</KeyConfig>
+//----------------------------------------------------------//
+	<MobConfig>
+		<Health>15</Health>	
+	</MobConfig>
+//----------------------------------------------------------//
+	<ModeConfig>
+		<Swunt>1</Swunt>
+	</ModeConfig>
+//----------------------------------------------------------//
+	<Sounds>
+		<NoTarget>notarget.wav</NoTarget>
+		<Revive>revive.wav</Revive>
+		<NoAmmo>noammo.wav</NoAmmo>
+		<LowCondition>lowcondition.wav</LowCondition>
+		<Destroyed>destroyed.wav</Destroyed>
+	</Sounds>
+//----------------------------------------------------------//
+	<Debugging>
+		<PathToChatLog>C:\\Users\\dsear_000\\Documents\\Entropia Universe\\chat.log</PathToChatLog>
+		<PathToTempLog>temp.log</PathToTempLog>
+		<PathToDataLog>data.log</PathToDataLog>
+	</Debugging>
+</Settings>
